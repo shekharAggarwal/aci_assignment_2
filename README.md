@@ -5,13 +5,14 @@ Situated Learning Assignment. Due **Sunday 22 November 2026, 11:59 PM**.
 | Part | Status | File |
 |---|---|---|
 | Question 1: Connect Four with depth-3 Minimax (group, 5 marks) | Done | `Question1_Group.ipynb` |
-| Question 2: workplace knowledge base (individual, 5 marks) | Not done yet | One PDF per member, named `<BITS ID>.pdf` |
+| Question 2: workplace knowledge base (individual, 5 marks) | Shekhar's PDF done; other members write their own | `pdfs/<BITS ID>.pdf` |
 
 ## Folders
 
 - `Question1_Group.ipynb`: the group solution. Use *Run All*, then play in the last cell.
+- `pdfs/2025AG05925.pdf`: Shekhar's Question 2 (production release approval process).
 - `make_submission_zip.sh`: builds the single ZIP and refuses a missing or badly named PDF.
-- `experiments/`: the script and results behind the evaluation table in Part (a). Not part of the submission.
+- `experiments/`: evidence for the evaluation table in Question 1 Part (a), and a check that the Question 2 knowledge base derives the stated answers. Not part of the submission.
 - `question_source/`: the assignment brief.
 
 ## Before submitting
